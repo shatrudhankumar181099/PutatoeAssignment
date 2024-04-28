@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Putatoe</string>
+    <string name="terms_and_condition">I agree to all the\n</string>
+    <string name="or">Or</string>
+    <string name="register">REGISTER</string>
+</resources>
